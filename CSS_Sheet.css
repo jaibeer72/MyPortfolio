@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Background{
+	background-color: white;
+	margin-right: 130px; 
+	margin-left: 130px;
+	margin-top: 0px;
+}
+.Rectangle_1 {
+  background-color:#81B7AE;
+  width: 1105px;
+	padding-bottom: 200px; 
+}
+
+.Profile_Pic{
+  position: absolute;
+  left: 199px;
+  top: 100px;
+  width: 308px;
+  height: 308px;
+}
+.Typing_In_Box{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; 
+	font-size: 61px;
+	background-color: white; 
+	position:relative;
+	top: 100px; 
+	bottom: 20px;
+	left: 430px;
+	width: 469px; 
+	height: 79px; 
+	margin-right: 30px; 
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+.Space{
+	width: 50px;
+	height: 20px;
+}
+
+.Icons_Box{
+	position: relative;
+	background-color: white; 
+	padding-bottom: 50px;
+	width: 450px; 
+	left: 68px; 
+	top: 157px;
+}
+
+.circle{
+	width:234px;
+	height:234px;
+	margin-left: 123px;
+	margin-right: 123px; 
+	margin-top: 61px;
+	border-radius:117px;
+	line-height:100px;
+	}
+
